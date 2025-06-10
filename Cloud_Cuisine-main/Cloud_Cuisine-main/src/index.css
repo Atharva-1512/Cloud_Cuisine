@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-stone-50 text-gray-800 font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-medium;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl;
+  }
+  
+  .btn-primary {
+    @apply bg-amber-600 hover:bg-amber-700 text-white font-medium py-3 px-6 rounded-lg transition-all duration-300 inline-block;
+  }
+  
+  .btn-secondary {
+    @apply bg-transparent hover:bg-amber-50 text-amber-700 font-medium py-3 px-6 border border-amber-600 rounded-lg transition-all duration-300 inline-block;
+  }
+
+  .section-title {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-serif font-medium relative mb-12 inline-block;
+  }
+  
+  .section-title::after {
+    content: "";
+    @apply absolute bottom-0 left-0 w-2/3 h-1 bg-amber-500 -mb-4;
+  }
+  
+  .food-card {
+    @apply bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-all duration-300;
+  }
+  
+  .food-card-img {
+    @apply h-48 w-full object-cover object-center;
+  }
+  
+  .category-badge {
+    @apply inline-block px-3 py-1 text-xs rounded-full font-medium;
+  }
+}
