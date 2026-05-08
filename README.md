@@ -1,7 +1,11 @@
 🍽️ Cloud Cuisine
 Smart Cloud Kitchen Web Application
-🌐 Overview
 
+
+
+
+
+🌐 Overview
 Cloud Cuisine is a modern cloud kitchen management and food ordering web application designed to simulate real-world digital-first restaurant systems.
 
 It demonstrates how cloud kitchens operate without physical dine-in infrastructure by managing menus, customers, and orders entirely online.
