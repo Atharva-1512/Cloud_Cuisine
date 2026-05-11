@@ -92,10 +92,12 @@ Create a feature branch
 Commit your changes
 Push to your branch
 Open a Pull Request
+
+
+
+
+
 👨‍💻 Author
-
-
-
 
 
 Atharva Gade
