@@ -83,8 +83,12 @@ Scalable frontend architecture
 Clean and modular code practices
 UI/UX engineering principles
 Git-based development workflow
-🤝 Contributing
 
+
+
+
+
+🤝 Contributing
 Contributions are welcome and appreciated!
 
 Fork the repository
