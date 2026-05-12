@@ -32,6 +32,12 @@ Cloud Cuisine addresses these needs by providing a fully digital, user-centric r
 ✅ Clean and maintainable code structure
 ✅ Optimized navigation and performance
 ✅ Scalable cloud kitchen model
+
+
+
+
+
+
 🛠️ Tech Stack
 Category	Technology
 Frontend	TypeScript
