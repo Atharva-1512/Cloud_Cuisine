@@ -1,4 +1,4 @@
-🍽️ Cloud Cuisine
+🍽️ Cloud Cuisine 🍽️
 Smart Cloud Kitchen Web Application
 
 
