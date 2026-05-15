@@ -25,6 +25,9 @@ Scalable and maintainable architecture
 
 Cloud Cuisine addresses these needs by providing a fully digital, user-centric restaurant platform.
 
+
+
+
 ✨ Key Features
 ✅ Responsive and modern UI
 ✅ Digital food menu system
@@ -48,6 +51,9 @@ Version Control	Git & GitHub
 📸 Application Preview
 
 ⚠️ Replace placeholder with real screenshots to significantly improve recruiter impact
+
+
+
 
 <p align="center"> <img src="https://via.placeholder.com/900x450.png?text=Cloud+Cuisine+Homepage" width="80%"/> </p>
 ⚙️ Installation Guide
