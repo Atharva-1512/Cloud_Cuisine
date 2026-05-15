@@ -65,6 +65,12 @@ npm run dev
 
 # 5. Open in browser
 http://localhost:3000
+
+
+
+
+
+
 📁 Project Structure
 Cloud_Cuisine/
 │
