@@ -18,6 +18,9 @@ Traditional restaurant systems rely heavily on physical infrastructure, limiting
 
 Cloud kitchens, however, require:
 
+
+
+
 Seamless online menu management
 Fast and intuitive ordering experience
 High-performance user interfaces
